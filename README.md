@@ -4,6 +4,7 @@ A simple tool to separate pages of a PDF into two files:
 ✔ Color PDF – Pages containing images.
 
 This helps reduce printing costs by ensuring that only necessary pages are printed in color.
+
 Problem:
 Printing a full book PDF is expensive because pages with images must be printed in color, while text-only pages can be black & white. Manually separating these pages is slow and impractical.
 
